@@ -1,7 +1,5 @@
 # Flight-Simulation
 
-## Functional Requirements
+This program will eventually be used as a flight simulator for TRC. Use case will be more strictly defined as project progresses.
 
-This flight simulator will be used to predict flight stability, heating, accelerations, and velocities of experimental rockets. This program should identify potential risks in a vehicle.
-
-Montecarlo simulation. Dispersion analysis.
+Initial step: create montecarlo simulator

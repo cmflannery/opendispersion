@@ -1,5 +1,5 @@
-# Flight-Simulation
+# Open-Dispersion
 
-This program will eventually be used as a flight simulator for TRC. Use case will be more strictly defined as project progresses.
+Open source dispersion analysis. Based in python.
 
 Initial step: create montecarlo simulator
